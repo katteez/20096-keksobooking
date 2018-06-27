@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Зощик](https://up.htmlacademy.ru/javascript/14/user/20096).
-* Наставник: `Неизвестно`.
+* Наставник: `Екатерина Зощик`.
 
 ---
 
